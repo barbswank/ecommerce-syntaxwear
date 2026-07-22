@@ -75,6 +75,7 @@ cd ecommerce-syntaxwear
 ```
 
 3. Execute o projeto
+
 Abra o arquivo `index.html` diretamente no navegador ou utilize uma extensão como o *Live Server* no Visual Studio Code.
 
 ---
