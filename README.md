@@ -1,3 +1,7 @@
+# Visual do Projeto
+
+![Pré-visualização do SyntaxWear](images/banners/print-site.png)
+
 # SyntaxWear
 
 O SyntaxWear é um e-commerce moderno e estiloso desenvolvido para a venda de tênis e calçados online. Este projeto foi desenvolvido como uma demonstração de habilidades em desenvolvimento front-end, com foco na criação de uma interface atraente, responsiva e intuitiva utilizando HTML e CSS.
