@@ -11,27 +11,27 @@
 
 .highlight {
 	grid-area: highlight;
-	background-image: url(../../images/products/card_imagem.jpg);
+	background-image: url("../../images/products/card_imagem.jpg");
 }
 .sneaker-purple {
 	grid-area: sneaker-purple;
-	background-image: url(../../images/products/roxo-verde-grid.jpg);
+	background-image: url("../../images/products/roxo-verde-grid.jpg");
 }
 .model {
 	grid-area: model;
-	background-image: url(../../images/products/modelo-feminino.jpg);
+	background-image: url("../../images/products/modelo-feminino.jpg");
 }
 .sneaker-color {
 	grid-area: sneaker-color;
-	background-image: url(../../images/products/futurista-grid.jpg);
+	background-image: url("../../images/products/futurista-grid.jpg");
 }
 .sneaker-white {
 	grid-area: sneaker-white;
-	background-image: url(../../images/products/preto-branco-grid.jpg);
+	background-image: url("../../images/products/preto-branco-grid.jpg");
 }
 .sneaker-silver {
 	grid-area: sneaker-silver;
-	background-image: url(../../images/products/moderno-grid.jpg);
+	background-image: url("../../images/products/moderno-grid.jpg");
 }
 .grid-section {
 	display: grid;
