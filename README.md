@@ -74,9 +74,7 @@ git clone https://github.com/barbswank/ecommerce-syntaxwear.git
 cd ecommerce-syntaxwear
 ```
 
-3. Execute o projeto
-
-Abra o arquivo `index.html` diretamente no navegador ou utilize uma extensão como o *Live Server* no Visual Studio Code.
+3. Execute o projeto: Abra o arquivo `index.html` diretamente no navegador ou utilize uma extensão como o *Live Server* no Visual Studio Code.
 
 ---
 
